@@ -18,7 +18,7 @@ I’m passionate about the intersection of human, animal, and environmental heal
 **Wayne State College**  
 Bachelor of Science — *One Health Studies*  
 
-**Metropolitan Community College**
+**Metropolitan Community College**   
 Associate Science - *General Health Studies*
 
 ---
