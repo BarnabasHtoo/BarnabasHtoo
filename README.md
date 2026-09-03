@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Barnabas
 
-<!--
-**BarnabasHtoo/BarnabasHtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+International student at **Wayne State College** pursuing a **Bachelor of Science in One Health Studies**.  
+I’m passionate about the intersection of human, animal, and environmental health, and I bring strong skills in **Communication**, **Program Management**, **Mental Health Counseling**, **Team Coordination**, and **Strategic Collaboration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Communication  
+- Program Management  
+- Mental Health Counseling  
+- Team Coordination  
+- Strategic Collaboration  
+
+---
+
+## 🎓 Education
+**Wayne State College**  
+Bachelor of Science — *One Health Studies*  
+
+**Metropolitan Community College**
+Associate Science - *General Health Studies*
+
+---
+
+## 🌍 About My Interests
+I’m driven by global health challenges and the One Health approach, focusing on how human, animal, and environmental systems connect.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** *(https://www.linkedin.com/in/saw-barnabas-thadoe-htoo-ab52b0198/)*  
+- **Instagram:** *(https://www.instagram.com/barnabas_htoo/)*
+
+---
+
+Thanks for visiting my profile!
